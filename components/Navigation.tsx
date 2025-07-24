@@ -23,7 +23,7 @@ export default function Navigation() {
           <div className="flex items-center">
             <Link href="/" className="flex items-center">
               <Image
-                src="/images/faklogo.jpg"
+                src="/images/faklogo-transparent.png"
                 alt="F.A.K. Logistics, Inc."
                 width={120}
                 height={60}
