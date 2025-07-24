@@ -1,0 +1,30 @@
+# Development files
+*.js.map
+node_modules/
+.next/cache/
+
+# Test files
+test-*.js
+test-*.png
+screenshot-*.png
+generate-*.js
+create-*.js
+make-*.js
+final-*.png
+navigation-*.png
+*-page.png
+
+# Environment files
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
