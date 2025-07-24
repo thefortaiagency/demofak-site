@@ -1,0 +1,553 @@
+{
+  "url": "https://fakshipping.com/",
+  "meta": {
+    "title": "F.A.K. Logistics, Inc.",
+    "description": "FAK Logistics is an industry leading broker of “Freight of All Kinds”. Based in Fort Wayne, IN and specialize in over the road (OTR) transportation. ",
+    "keywords": "",
+    "favicon": "https://fakshipping.com/favicon.ico"
+  },
+  "navigation": [
+    {
+      "text": "Skip to main content",
+      "href": "#MainContent",
+      "target": "",
+      "className": "HeaderSkipContentMain"
+    },
+    {
+      "text": "Skip to footer",
+      "href": "#Footer",
+      "target": "",
+      "className": "HeaderSkipContentFooter"
+    },
+    {
+      "text": "",
+      "href": "/",
+      "target": "",
+      "className": "HeaderLogoLink"
+    },
+    {
+      "text": "Who We Are",
+      "href": "/who-we-are",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Our Culture",
+      "href": "/our-culture",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Meet the Owner",
+      "href": "/meet-the-owner",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Meet the FAK'ers",
+      "href": "/meet-the-fakers",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Truckload",
+      "href": "/truckload",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Flatbed & Specialized",
+      "href": "/flatbed-and-specialized",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Freight Management Solutions",
+      "href": "/freight-management-solutions",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Intermodal",
+      "href": "/intermodal",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "LTL",
+      "href": "/ltl",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Testimonials",
+      "href": "/testimonials",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Contact Us",
+      "href": "/contact-us",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent Button LargeButton DarkButton"
+    },
+    {
+      "text": "Who We Are",
+      "href": "/who-we-are",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Our Culture",
+      "href": "/our-culture",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Meet the Owner",
+      "href": "/meet-the-owner",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Meet the FAK'ers",
+      "href": "/meet-the-fakers",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Truckload",
+      "href": "/truckload",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Flatbed & Specialized",
+      "href": "/flatbed-and-specialized",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Freight Management Solutions",
+      "href": "/freight-management-solutions",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Intermodal",
+      "href": "/intermodal",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "LTL",
+      "href": "/ltl",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Testimonials",
+      "href": "/testimonials",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "About Us",
+      "href": "/",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Who We Are",
+      "href": "/who-we-are",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Our Culture",
+      "href": "/our-culture",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Meet the Owner",
+      "href": "/meet-the-owner",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Meet the FAK'ers",
+      "href": "/meet-the-fakers",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Truckload",
+      "href": "/truckload",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Flatbed & Specialized",
+      "href": "/flatbed-and-specialized",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Intermodal",
+      "href": "/intermodal",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Freight Management Solutions",
+      "href": "/freight-management-solutions",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "LTL",
+      "href": "/ltl",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    },
+    {
+      "text": "Testimonials",
+      "href": "/testimonials",
+      "target": "",
+      "className": "NavigationItemContent NavigationItemInteractiveContent "
+    }
+  ],
+  "sections": [
+    {
+      "index": 0,
+      "id": "",
+      "className": "MainContentInner ",
+      "styles": {
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "fontFamily": "\"Open Sans\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "border": "0px none rgb(0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "width": "1920px",
+        "height": "3938.66px"
+      },
+      "content": {
+        "headings": [
+          {
+            "level": "h1",
+            "text": "FAK Logistics",
+            "className": "HeroImageTitle",
+            "styles": {
+              "color": "rgb(255, 255, 255)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "fontFamily": "\"Open Sans\", sans-serif",
+              "fontSize": "48px",
+              "fontWeight": "700",
+              "margin": "0px 0px 18px",
+              "border": "0px none rgb(255, 255, 255)",
+              "display": "block",
+              "position": "static",
+              "width": "470px",
+              "height": "53px"
+            }
+          },
+          {
+            "level": "h2",
+            "text": "Freight of All Kinds (FAK)",
+            "className": "CalloutBlockTitle CalloutBlockTitleCenterAligned",
+            "styles": {
+              "color": "rgb(255, 255, 255)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "fontFamily": "\"Open Sans\", sans-serif",
+              "fontSize": "27px",
+              "fontWeight": "700",
+              "margin": "0px 0px 48px",
+              "border": "0px none rgb(255, 255, 255)",
+              "display": "block",
+              "position": "static",
+              "width": "1400px",
+              "height": "30px"
+            }
+          }
+        ],
+        "paragraphs": [
+          {
+            "text": "Your Proactive Freight Management Partner.",
+            "className": "HeroImageSubtitle",
+            "styles": {
+              "color": "rgb(255, 255, 255)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "fontFamily": "\"Open Sans\", serif",
+              "fontSize": "17px",
+              "fontWeight": "400",
+              "margin": "0px 0px 42px",
+              "border": "0px none rgb(255, 255, 255)",
+              "display": "block",
+              "position": "static",
+              "width": "470px",
+              "height": "23px"
+            }
+          },
+          {
+            "text": "The world of freight can be a bit of a maze. That’s where our proactive approach shines! Our commitment to transparency ensures you’ll know where your shipments are at every turn. We anticipate challenges before they arise and deploy innovative strategies, giving you the confidence to navigate the complexities of your shipments.",
+            "className": "InfoBlockDescription",
+            "styles": {
+              "color": "rgb(99, 99, 99)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "fontFamily": "\"Open Sans\", serif",
+              "fontSize": "18px",
+              "fontWeight": "400",
+              "border": "0px none rgb(99, 99, 99)",
+              "display": "block",
+              "position": "static",
+              "width": "686px",
+              "height": "140px"
+            }
+          },
+          {
+            "text": "When standard trailers won't cut it, FAK gives you options.",
+            "className": "CalloutBlockItemDescription",
+            "styles": {
+              "color": "rgb(0, 0, 0)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "fontFamily": "\"Open Sans\", serif",
+              "fontSize": "19px",
+              "fontWeight": "600",
+              "border": "0px none rgb(0, 0, 0)",
+              "display": "block",
+              "position": "static",
+              "width": "246px",
+              "height": "75px"
+            }
+          },
+          {
+            "text": "Hazardous materials don't scare us.",
+            "className": "CalloutBlockItemDescription",
+            "styles": {
+              "color": "rgb(0, 0, 0)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "fontFamily": "\"Open Sans\", serif",
+              "fontSize": "19px",
+              "fontWeight": "600",
+              "border": "0px none rgb(0, 0, 0)",
+              "display": "block",
+              "position": "static",
+              "width": "246px",
+              "height": "75px"
+            }
+          },
+          {
+            "text": "FAK can get you into or out of port easily.",
+            "className": "CalloutBlockItemDescription",
+            "styles": {
+              "color": "rgb(0, 0, 0)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "fontFamily": "\"Open Sans\", serif",
+              "fontSize": "19px",
+              "fontWeight": "600",
+              "border": "0px none rgb(0, 0, 0)",
+              "display": "block",
+              "position": "static",
+              "width": "246px",
+              "height": "75px"
+            }
+          },
+          {
+            "text": "We can even get reefer and food-grade shipping.",
+            "className": "CalloutBlockItemDescription",
+            "styles": {
+              "color": "rgb(0, 0, 0)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "fontFamily": "\"Open Sans\", serif",
+              "fontSize": "19px",
+              "fontWeight": "600",
+              "border": "0px none rgb(0, 0, 0)",
+              "display": "block",
+              "position": "static",
+              "width": "246px",
+              "height": "75px"
+            }
+          },
+          {
+            "text": "Whether it's FTL or LTL; dry van, reefer, flatbed or specialty... we have a way to deliver it.",
+            "className": "CalloutBlockItemDescription",
+            "styles": {
+              "color": "rgb(255, 255, 255)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "fontFamily": "\"Open Sans\", serif",
+              "fontSize": "19px",
+              "fontWeight": "600",
+              "border": "0px none rgb(255, 255, 255)",
+              "display": "block",
+              "position": "static",
+              "width": "246px",
+              "height": "100px"
+            }
+          },
+          {
+            "text": "Food-grade? Hazmat? Drayage? Sharks in aquariums? When do you need it delivered?",
+            "className": "CalloutBlockItemDescription",
+            "styles": {
+              "color": "rgb(255, 255, 255)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "fontFamily": "\"Open Sans\", serif",
+              "fontSize": "19px",
+              "fontWeight": "600",
+              "border": "0px none rgb(255, 255, 255)",
+              "display": "block",
+              "position": "static",
+              "width": "246px",
+              "height": "100px"
+            }
+          },
+          {
+            "text": "Around the block, or around the world, we will get your freight delivered on time every time.",
+            "className": "CalloutBlockItemDescription",
+            "styles": {
+              "color": "rgb(255, 255, 255)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "fontFamily": "\"Open Sans\", serif",
+              "fontSize": "19px",
+              "fontWeight": "600",
+              "border": "0px none rgb(255, 255, 255)",
+              "display": "block",
+              "position": "static",
+              "width": "246px",
+              "height": "100px"
+            }
+          },
+          {
+            "text": "Every shipment  is backed by our money-back guarantee & multiple shipping methods.",
+            "className": "CalloutBlockItemDescription",
+            "styles": {
+              "color": "rgb(255, 255, 255)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "fontFamily": "\"Open Sans\", serif",
+              "fontSize": "19px",
+              "fontWeight": "600",
+              "border": "0px none rgb(255, 255, 255)",
+              "display": "block",
+              "position": "static",
+              "width": "246px",
+              "height": "100px"
+            }
+          },
+          {
+            "text": "The Haggard family values ring loud and true through the office every day. Our team is built by our leadership’s own network of talented individuals that have proven to be loyal to each other and the brand by staying committed to our top-down values and policies. We continue to grow our bench with top notch talent; even when we’re not looking, we’re always open to finding a place for the right person.",
+            "className": "",
+            "styles": {
+              "color": "rgb(0, 0, 0)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "fontFamily": "\"Open Sans\", serif",
+              "fontSize": "18px",
+              "fontWeight": "400",
+              "border": "0px none rgb(0, 0, 0)",
+              "display": "block",
+              "position": "static",
+              "width": "690px",
+              "height": "162px"
+            }
+          }
+        ],
+        "buttons": [],
+        "images": [
+          {
+            "src": "https://fakshipping.com/Data/fakhero-videodesktop.jpg?Revision=QkH&Timestamp=0m1Q58",
+            "alt": "FAK Logistics - Your Proactive Freight Management Partner.",
+            "className": "HeroBackgroundImage",
+            "width": 1920,
+            "height": 804
+          },
+          {
+            "src": "https://fakshipping.com/Data/fakfeatured-about-us-01icon.jpg?Revision=pbH&Timestamp=mk9k58",
+            "alt": "The FAK Logistics logomark.",
+            "className": "InfoBlockIconImage",
+            "width": 110,
+            "height": 60
+          },
+          {
+            "src": "https://fakshipping.com/Data/fakfeatured-about-us-01background.jpg?Revision=RkH&Timestamp=v41Q58",
+            "alt": "A background texture.",
+            "className": "InfoBlockBackgroundImage",
+            "width": 1920,
+            "height": 606
+          },
+          {
+            "src": "https://fakshipping.com/Data/fakpremium-brands-01desktop.jpg?Revision=N2H&Timestamp=M4wT58",
+            "alt": "An odometer rolling over to 2000.",
+            "className": "FeaturedPremiumBrandsImage",
+            "width": 1920,
+            "height": 518
+          },
+          {
+            "src": "https://fakshipping.com/Data/DSC09953-min.jpg?Revision=DVg&Timestamp=WP64B8",
+            "alt": "Meet the FAK Team",
+            "className": "InfoBlockImage",
+            "width": 564,
+            "height": 423
+          },
+          {
+            "src": "https://fakshipping.com/Data/fakfeatured-story-left-01background.jpg?Revision=mkH&Timestamp=tSWQ58",
+            "alt": "A background texture.",
+            "className": "InfoBlockBackgroundImage",
+            "width": 1920,
+            "height": 657
+          },
+          {
+            "src": "https://fakshipping.com/Data/fakfeatured-brands-full-01desktop.png?Revision=JkH&Timestamp=FMkQ58",
+            "alt": "A testimonial statement from a satisfied customer.",
+            "className": "FeaturedBrandsFullWidthImage",
+            "width": 1278,
+            "height": 228
+          }
+        ],
+        "lists": []
+      },
+      "html": "\n\t\t    <div id=\"HomePageHeroVideoBackground\" class=\"Blurb HeroImage HeroImageStandard HeroImageWithBgVideo DarkMode AlignContentCenter HeroImageWithBgVideo160_67 \" data-animation-type=\"None\"><div class=\"HeroImageInner\"><h1 class=\"HeroImageTitle\">FAK Logistics</h1><p class=\"HeroImageSubtitle\">Your Proactive Freight Management Partner.</p><div class=\"HeroImageButtons\"><a class=\"Button DarkButton LargeButton HeroImageButton HeroImageDarkButton\" href=\"/who-we-are\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><span class=\"ButtonText \">About Us</span></a><a class=\"Button LightButton LargeButton HeroImageButton HeroImageSecondaryButton\" href=\"/contact-us\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><span class=\"ButtonText \">Get A Quote</span></a></div></div><picture class=\"HeroBackgroundPicture\"><source srcset=\"https://fakshipping.com/Data/fakhero-videomobile.jpg?Revision=Vng&amp;Timestamp=HPcrB8\" media=\"(max-width: 640px)\"><img src=\"https://fakshipping.com/Data/fakhero-videodesktop.jpg?Revision=QkH&amp;Timestamp=0m1Q58\" class=\"HeroBackgroundImage\" alt=\"FAK Logistics - Your Proactive Freight Management Partner.\" title=\"FAK Logistics\"></picture><div class=\"HeroBgVideoContainer HeroBgVideoContainer16_9\"><iframe src=\"https://player.vimeo.com/video/1085838214?h=ed50bb0029&amp;background=1\" frameborder=\"0\" allowtransparency=\"true\" title=\"FAK Logistics\" tabindex=\"-1\"></iframe></div></div><div class=\"Blurb InfoBlock InfoBlockStandard LightMode FeaturedAboutUs AnimatedBlurb\" id=\"HomePageFeaturedAboutUs\" style=\"background-color: #ffffff; background-size: cover;\" data-animation-type=\"SlideDown\"><div class=\"InfoBlockInner\"><div class=\"InfoBlockIcon\"><img src=\"https://fakshipping.com/Data/fakfeatured-about-us-01icon.jpg?Revision=pbH&amp;Timestamp=mk9k58\" class=\"InfoBlockIconImage\" alt=\"The FAK Logistics logomark.\"></div><strong class=\"InfoBlockTitle\" role=\"heading\">At last, a freight management company who gives a ship.</strong><p class=\"InfoBlockDescription\">The world of freight can be a bit of a maze. That’s where our proactive approach shines! Our commitment to transparency ensures you’ll know where your shipments are at every turn. We anticipate challenges before they arise and deploy innovative strategies, giving you the confidence to navigate the complexities of your shipments.</p><div class=\"InfoBlockButtons\"><a class=\"Button DarkButton LargeButton InfoBlockButton InfoBlockPrimaryButton\" href=\"/who-we-are\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><span class=\"ButtonText \">Read More</span></a></div></div><picture class=\"InfoBlockBackgroundPicture\"><img src=\"https://fakshipping.com/Data/fakfeatured-about-us-01background.jpg?Revision=RkH&amp;Timestamp=v41Q58\" class=\"InfoBlockBackgroundImage\" alt=\"A background texture.\" title=\"FAK Logistics - About Us\"></picture></div><div id=\"HomePageFeaturedPremiumBrandsTwo\" class=\"Blurb InfoBlock InfoBlockStandard FeaturedPremiumBrands LightMode \" data-animation-type=\"None\"><picture class=\"InfoBlockPicture\"><source srcset=\"https://fakshipping.com/Data/fakpremium-brands-01mobile.jpg?Revision=0WH&amp;Timestamp=kqWQ58\" media=\"(max-width: 640px)\"><img src=\"https://fakshipping.com/Data/fakpremium-brands-01desktop.jpg?Revision=N2H&amp;Timestamp=M4wT58\" class=\"FeaturedPremiumBrandsImage\" alt=\"An odometer rolling over to 2000.\" title=\"FAK Logistics - 2000 shipments this month.\"></picture></div><div id=\"HomePageFeaturedProductsTwo\" class=\"Blurb CalloutBlock CalloutBlockStandard CalloutBlock4Columns CalloutBlock1Rows DarkMode FeaturedProducts CalloutBlockStatic AnimatedBlurb\" style=\"background-color: #ffffff; background-image: url(https://fakshipping.com/Data/fakfeatured-products-02background.jpg?Revision=K2H&amp;Timestamp=kMwT58); background-size: cover;\" data-animation-type=\"SlideRight\"><div class=\"CalloutBlockInner\"><div class=\"CalloutBlockInnerContent\"><h2 class=\"CalloutBlockTitle CalloutBlockTitleCenterAligned\">Freight of All Kinds (FAK)</h2></div><div class=\"CalloutBlockItems\"><div class=\"CalloutBlockItem  LightMode\"><div class=\"CalloutBlockItemInner\"><a class=\"CalloutBlockItemInnerLink\" href=\"/flatbed-and-specialized\" aria-label=\"A flatbed truck hauling freight of any kind.\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><div class=\"CalloutBlockItemImage\" role=\"img\" aria-label=\"A flatbed truck hauling freight of any kind.\" title=\"FAK Logistics - Freight of Any Kind\" style=\"background-image: url(https://fakshipping.com/Data/services-step-deck.jpg?Revision=kng&amp;Timestamp=Bt86B8);\"></div><div class=\"CalloutBlockItemContent\"><strong class=\"CalloutBlockItemTitle\" role=\"heading\">Flatbed</strong><p class=\"CalloutBlockItemDescription\">When standard trailers won't cut it, FAK gives you options.</p></div></a></div></div><div class=\"CalloutBlockItem  LightMode\"><div class=\"CalloutBlockItemInner\"><a class=\"CalloutBlockItemInnerLink\" href=\"/custom-freight-management\" aria-label=\"A hazardous materials truck hauling freight of any kind.\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><div class=\"CalloutBlockItemImage\" role=\"img\" aria-label=\"A hazardous materials truck hauling freight of any kind.\" title=\"FAK Logistics - Freight of Any Kind\" style=\"background-image: url(https://fakshipping.com/Data/fakfeatured-products-0202.jpg?Revision=x2H&amp;Timestamp=kMwT58);\"></div><div class=\"CalloutBlockItemContent\"><strong class=\"CalloutBlockItemTitle\" role=\"heading\">Hazmat</strong><p class=\"CalloutBlockItemDescription\">Hazardous materials don't scare us.</p></div></a></div></div><div class=\"CalloutBlockItem  LightMode\"><div class=\"CalloutBlockItemInner\"><a class=\"CalloutBlockItemInnerLink\" href=\"/intermodal\" aria-label=\"Intermodal trailers at a shipyard containing freight of any kind.\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><div class=\"CalloutBlockItemImage\" role=\"img\" aria-label=\"Intermodal trailers at a shipyard containing freight of any kind.\" title=\"FAK Logistics - Freight of Any Kind\" style=\"background-image: url(https://fakshipping.com/Data/fakfeatured-products-0203.jpg?Revision=V2H&amp;Timestamp=kMwT58);\"></div><div class=\"CalloutBlockItemContent\"><strong class=\"CalloutBlockItemTitle\" role=\"heading\">Drayage</strong><p class=\"CalloutBlockItemDescription\">FAK can get you into or out of port easily.</p></div></a></div></div><div class=\"CalloutBlockItem  LightMode\"><div class=\"CalloutBlockItemInner\"><a class=\"CalloutBlockItemInnerLink\" href=\"/truckload\" aria-label=\"Clean Food Grade Trailer.\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><div class=\"CalloutBlockItemImage\" role=\"img\" aria-label=\"Clean Food Grade Trailer.\" title=\"FAK Logistics - Freight of Any Kind\" style=\"background-image: url(https://fakshipping.com/Data/insideoffoodgradetrailer.jpg?Revision=png&amp;Timestamp=Bt86B8);\"></div><div class=\"CalloutBlockItemContent\"><strong class=\"CalloutBlockItemTitle\" role=\"heading\">Food-grade</strong><p class=\"CalloutBlockItemDescription\">We can even get reefer and food-grade shipping.</p></div></a></div></div></div></div></div><div id=\"HomePageFeaturedProducts\" class=\"Blurb CalloutBlock CalloutBlockStandard CalloutBlock4Columns CalloutBlock1Rows LightMode FeaturedProducts CalloutBlockStatic AnimatedBlurb\" style=\"background-color: #ffffff; background-image: url(https://fakshipping.com/Data/fakfeatured-products-01background.jpg?Revision=9WH&amp;Timestamp=y5WQ58); background-size: cover;\" data-animation-type=\"SlideUp\"><div class=\"CalloutBlockInner\"><div class=\"CalloutBlockInnerContent\"></div><div class=\"CalloutBlockItems\"><div class=\"CalloutBlockItem  DarkMode\"><div class=\"CalloutBlockItemInner\"><a class=\"CalloutBlockItemInnerLink\" aria-label=\"Any size shipment\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><div class=\"CalloutBlockItemImage\" role=\"img\" aria-label=\"Any size shipment\" title=\"Any size shipment.\" style=\"background-image: url(https://fakshipping.com/Data/fakfeatured-products-0101.jpg?Revision=hWH&amp;Timestamp=y5WQ58);\"></div><div class=\"CalloutBlockItemContent\"><p class=\"CalloutBlockItemDescription\">Whether it's FTL or LTL; dry van, reefer, flatbed or specialty... we have a way to deliver it.</p></div></a></div></div><div class=\"CalloutBlockItem  DarkMode\"><div class=\"CalloutBlockItemInner\"><a class=\"CalloutBlockItemInnerLink\" aria-label=\"Any type of cargo.\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><div class=\"CalloutBlockItemImage\" role=\"img\" aria-label=\"Any type of cargo.\" title=\"Any type of cargo.\" style=\"background-image: url(https://fakshipping.com/Data/fakfeatured-products-0102.jpg?Revision=sWH&amp;Timestamp=y5WQ58);\"></div><div class=\"CalloutBlockItemContent\"><p class=\"CalloutBlockItemDescription\">Food-grade? Hazmat? Drayage? Sharks in aquariums? When do you need it delivered?</p></div></a></div></div><div class=\"CalloutBlockItem  DarkMode\"><div class=\"CalloutBlockItemInner\"><a class=\"CalloutBlockItemInnerLink\" aria-label=\"Anywhere it needs to go.\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><div class=\"CalloutBlockItemImage\" role=\"img\" aria-label=\"Anywhere it needs to go.\" title=\"Anywhere it needs to go.\" style=\"background-image: url(https://fakshipping.com/Data/fakfeatured-products-0103.jpg?Revision=2WH&amp;Timestamp=y5WQ58);\"></div><div class=\"CalloutBlockItemContent\"><p class=\"CalloutBlockItemDescription\">Around the block, or around the world, we will get your freight delivered on time every time.</p></div></a></div></div><div class=\"CalloutBlockItem  DarkMode\"><div class=\"CalloutBlockItemInner\"><a class=\"CalloutBlockItemInnerLink\" aria-label=\"Tracked and guaranteed.\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><div class=\"CalloutBlockItemImage\" role=\"img\" aria-label=\"Tracked and guaranteed.\" title=\"Tracked and guaranteed.\" style=\"background-image: url(https://fakshipping.com/Data/fakfeatured-products-0104.jpg?Revision=lWH&amp;Timestamp=y5WQ58);\"></div><div class=\"CalloutBlockItemContent\"><p class=\"CalloutBlockItemDescription\">Every shipment  is backed by our money-back guarantee &amp; multiple shipping methods.</p></div></a></div></div></div></div></div><div class=\"Blurb InfoBlock InfoBlockImageCutout LightMode FeaturedStoryRight\" id=\"HomePageFeaturedStoryRight\" style=\"background-color: #ffffff; background-size: cover;\" data-animation-type=\"None\"><div class=\"InfoBlockInner\"><div class=\"InfoBlockColumns\"><div class=\"InfoBlockColumn InfoBlockContentColumn\"><strong class=\"InfoBlockTitle\" role=\"heading\">Meet the FAK Team</strong><div class=\"InfoBlockDescription\"><p>The Haggard family values ring loud and true through the office every day. Our team is built by our leadership’s own network of talented individuals that have proven to be loyal to each other and the brand by staying committed to our top-down values and policies. We continue to grow our bench with top notch talent; even when we’re not looking, we’re always open to finding a place for the right person.</p></div><div class=\"InfoBlockButtons\"><a class=\"Button DarkButton LargeButton InfoBlockButton\" href=\"/meet-the-fakers\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><span class=\"ButtonText \">Read More</span></a></div></div><div class=\"InfoBlockColumn InfoBlockImageColumn\"><picture class=\"InfoBlockPicture\"><source srcset=\"https://fakshipping.com/Data/DSC09953-min.jpg?Revision=QVg&amp;Timestamp=WP64B8\" media=\"(max-width: 480px)\"><img src=\"https://fakshipping.com/Data/DSC09953-min.jpg?Revision=DVg&amp;Timestamp=WP64B8\" class=\"InfoBlockImage\" title=\"Meet the FAK Team\" alt=\"Meet the FAK Team\"></picture></div></div></div><picture class=\"InfoBlockBackgroundPicture\"><img src=\"https://fakshipping.com/Data/fakfeatured-story-left-01background.jpg?Revision=mkH&amp;Timestamp=tSWQ58\" class=\"InfoBlockBackgroundImage\" alt=\"A background texture.\" title=\"FAK Meet the team.\"></picture></div><div id=\"HomePageFeaturedBrandsFullWidthThree\" class=\"Blurb InfoBlock InfoBlockStandard FeaturedBrandsFullWidth LightMode\" style=\"background-color: ; background-image: url(https://fakshipping.com/Data/fakfeatured-brands-full-01background.jpg?Revision=NkH&amp;Timestamp=FMkQ58);\"><div class=\"FeaturedBrandsFullWidthInner\"><a href=\"/testimonials\" class=\"FeaturedBrandsFullWidthLink \" id=\"HomePageFeaturedBrandsFullWidthThree\"><picture class=\"FeaturedBrandsFullWidthPicture\"><source srcset=\"https://fakshipping.com/Data/fakfeatured-brands-full-01mobile.png?Revision=KkH&amp;Timestamp=FMkQ58\" media=\"(max-width: 640px)\"><img src=\"https://fakshipping.com/Data/fakfeatured-brands-full-01desktop.png?Revision=JkH&amp;Timestamp=FMkQ58\" class=\"FeaturedBrandsFullWidthImage\" alt=\"A testimonial statement from a satisfied customer.\" title=\"A testimonial statement from a satisfied customer.\"></picture></a></div></div>\n\t\t"
+    }
+  ],
+  "globalStyles": {
+    "body": {
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontFamily": "\"Open Sans\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "border": "0px none rgb(0, 0, 0)",
+      "display": "flex",
+      "position": "static",
+      "width": "1920px",
+      "height": "5074.66px"
+    },
+    "primaryColors": [
+      "rgb(0, 0, 0)",
+      "rgb(255, 255, 255)",
+      "rgb(88, 88, 88)",
+      "rgb(237, 237, 237)",
+      "rgb(219, 20, 54)",
+      "rgb(245, 245, 245)",
+      "rgba(0, 0, 0, 0.5)",
+      "rgb(55, 55, 55)",
+      "rgb(55, 55, 55) rgb(55, 55, 55) rgb(245, 245, 245)",
+      "rgb(227, 227, 227)",
+      "rgb(54, 54, 54)",
+      "rgb(99, 99, 99)",
+      "rgb(65, 65, 65)",
+      "rgb(190, 190, 190)",
+      "rgb(238, 11, 11)",
+      "rgb(179, 179, 179)",
+      "rgb(193, 193, 193)",
+      "rgb(145, 145, 145)",
+      "rgb(204, 204, 204)"
+    ],
+    "fonts": [
+      "\"Open Sans\", sans-serif",
+      "\"Open Sans\", serif"
+    ]
+  },
+  "footer": "<div class=\"FooterInner \">\n\t\t<div class=\"FooterContent\"><div class=\"FooterAbout\"><div class=\"FooterAboutLogo\"><img src=\"https://fakshipping.com/Data/faklogo.jpg?Revision=G1H&amp;Timestamp=0jd058\" class=\"FooterAboutLogoImage\" alt=\"F.A.K. Logistics, Inc.\" title=\"F.A.K. Logistics, Inc.\"></div><div class=\"FooterAboutContactInfo\"><div class=\"FooterAboutAddressSection\" aria-label=\"Our address\">201 W. Main St.,\n\t\t\t\n                Fort Wayne,\n\t\t\t\n            IN\n\t\t\t46802 <br>\n\t\t</div><div class=\"FooterAboutPhoneSection\"><a class=\"FooterAboutPhone\" href=\"tel:260-449-9034\" aria-label=\"Our phone number\" data-event-tracking=\"true\" data-event-label=\"Phone Number Click\" data-event-category=\"Phone Number\">(260) 449-9034</a><br></div></div></div><div class=\"FooterLists\"><nav id=\"FooterNavigation\" class=\"Navigation NavigationStandard FooterNavigation\" data-type=\"Standard\"><ul class=\"NavigationList\"><li class=\"NavigationItem NavigationItemActive NavigationItemHasChildren \" data-id=\"896\" rel=\"About Us\"><div class=\"NavigationItemInner\"><a class=\"NavigationItemContent NavigationItemInteractiveContent \" href=\"/\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><span class=\"NavigationItemText\">About Us</span></a></div><ul class=\"NavigationList\" style=\"left: 0px; right: 0px;\"><li class=\"NavigationItem  \" data-id=\"1023\" rel=\"Who We Are\"><div class=\"NavigationItemInner\"><a class=\"NavigationItemContent NavigationItemInteractiveContent \" href=\"/who-we-are\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><span class=\"NavigationItemText\">Who We Are</span></a></div></li><li class=\"NavigationItem  \" data-id=\"897\" rel=\"Our Culture\"><div class=\"NavigationItemInner\"><a class=\"NavigationItemContent NavigationItemInteractiveContent \" href=\"/our-culture\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><span class=\"NavigationItemText\">Our Culture</span></a></div></li><li class=\"NavigationItem  \" data-id=\"898\" rel=\"Meet the Owner\"><div class=\"NavigationItemInner\"><a class=\"NavigationItemContent NavigationItemInteractiveContent \" href=\"/meet-the-owner\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><span class=\"NavigationItemText\">Meet the Owner</span></a></div></li><li class=\"NavigationItem  \" data-id=\"899\" rel=\"Meet the FAK'ers\"><div class=\"NavigationItemInner\"><a class=\"NavigationItemContent NavigationItemInteractiveContent \" href=\"/meet-the-fakers\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><span class=\"NavigationItemText\">Meet the FAK'ers</span></a></div></li></ul></li><li class=\"NavigationItem NavigationItemHasChildren \" data-id=\"900\" rel=\"Services\"><div class=\"NavigationItemInner\"><div class=\"NavigationItemContent\"><span class=\"NavigationItemText\">Services</span></div></div><ul class=\"NavigationList\" style=\"left: 0px; right: 0px;\"><li class=\"NavigationItem  \" data-id=\"1024\" rel=\"Truckload\"><div class=\"NavigationItemInner\"><a class=\"NavigationItemContent NavigationItemInteractiveContent \" href=\"/truckload\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><span class=\"NavigationItemText\">Truckload</span></a></div></li><li class=\"NavigationItem  \" data-id=\"1025\" rel=\"Flatbed &amp; Specialized\"><div class=\"NavigationItemInner\"><a class=\"NavigationItemContent NavigationItemInteractiveContent \" href=\"/flatbed-and-specialized\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><span class=\"NavigationItemText\">Flatbed &amp; Specialized</span></a></div></li><li class=\"NavigationItem  \" data-id=\"1026\" rel=\"Intermodal\"><div class=\"NavigationItemInner\"><a class=\"NavigationItemContent NavigationItemInteractiveContent \" href=\"/intermodal\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><span class=\"NavigationItemText\">Intermodal</span></a></div></li><li class=\"NavigationItem  \" data-id=\"1027\" rel=\"Freight Management Solutions\"><div class=\"NavigationItemInner\"><a class=\"NavigationItemContent NavigationItemInteractiveContent \" href=\"/freight-management-solutions\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><span class=\"NavigationItemText\">Freight Management Solutions</span></a></div></li><li class=\"NavigationItem  \" data-id=\"1028\" rel=\"LTL\"><div class=\"NavigationItemInner\"><a class=\"NavigationItemContent NavigationItemInteractiveContent \" href=\"/ltl\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><span class=\"NavigationItemText\">LTL</span></a></div></li></ul></li><li class=\"NavigationItem NavigationItemHasChildren \" data-id=\"901\" rel=\"Resources\"><div class=\"NavigationItemInner\"><div class=\"NavigationItemContent\"><span class=\"NavigationItemText\">Resources</span></div></div><ul class=\"NavigationList\" style=\"left: 0px; right: 0px;\"><li class=\"NavigationItem  \" data-id=\"903\" rel=\"Testimonials\"><div class=\"NavigationItemInner\"><a class=\"NavigationItemContent NavigationItemInteractiveContent \" href=\"/testimonials\" data-event-tracking=\"false\" data-event-label=\"Link Click\" data-event-category=\"Link\"><span class=\"NavigationItemText\">Testimonials</span></a></div></li></ul></li></ul></nav><div class=\"FooterSocial\"><div class=\"FooterSocialHeading\" role=\"heading\">Social</div><ul class=\"FooterSocialList\"><li class=\"FooterSocialItem\"><a class=\"FooterSocialItemLink\" title=\"Like us on Facebook\" href=\"https://www.facebook.com/FAKShip/\" target=\"_blank\" aria-label=\"Like us on Facebook\" data-title=\"Like us on Facebook\" data-event-tracking=\"false\" data-event-label=\"External Link Click\" data-event-category=\"Link\"><span class=\"FooterSocialItemIcon\"><svg xmlns=\"http://www.w3.org/2000/svg\" class=\"IconFacebook\" viewBox=\"0 0 45 45\"><title>Like us on Facebook</title><path d=\"m21.995,45v-17.82h-5.12v-5.625h5.12v-5.625c0-4.46,2.725-7.471,8.13-7.471,2.373,0,4.043.374,4.043.374v5.229h-3.582c-1.648,0-2.461.923-2.461,2.549v4.944h5.625l-.813,5.625h-4.812v17.117c9.712-2.505,16.875-11.316,16.875-21.797C45,10.085,34.915,0,22.5,0S0,10.085,0,22.5c0,12.261,9.8,22.236,21.995,22.5Z\" fill-rule=\"evenodd\"></path></svg></span></a></li><li class=\"FooterSocialItem\"><a class=\"FooterSocialItemLink\" title=\"Connect with us on LinkedIn\" href=\"https://www.linkedin.com/company/f.a.k.-logistics/posts/?feedView=all\" target=\"_blank\" aria-label=\"Connect with us on LinkedIn\" data-title=\"Connect with us on LinkedIn\" data-event-tracking=\"false\" data-event-label=\"External Link Click\" data-event-category=\"Link\"><span class=\"FooterSocialItemIcon\"><svg xmlns=\"http://www.w3.org/2000/svg\" class=\"IconLinkedIn\" viewBox=\"0 0 45 45\"><title>Connect with us on LinkedIn</title><path d=\"m22.5,0C10.042,0,0,10.042,0,22.5s10.042,22.5,22.5,22.5,22.5-10.042,22.5-22.5S34.958,0,22.5,0Zm-9.382,15.007h-.044c-2.241,0-3.691-1.472-3.691-3.296,0-1.868,1.494-3.274,3.735-3.274,2.307,0,3.713,1.406,3.757,3.274,0,1.824-1.45,3.296-3.757,3.296Zm2.812,18.743h-5.625v-15.93h5.625v15.93Zm20.632,0h-5.625v-8.438c0-2.856-1.143-3.757-2.856-3.757-1.736,0-2.769,1.472-2.769,3.757v8.438h-5.625v-12.195s-.11-3.12-.154-3.735h5.581l.198,2.439c.725-2.021,2.395-3.384,4.68-3.384,4.021,0,6.57,3.274,6.57,8.438v8.438Z\" fill-rule=\"evenodd\"></path></svg></span></a></li></ul></div></div></div><small class=\"FooterBottom\"><span class=\"FooterCopyright\">© 2025 F.A.K. Logistics, inc</span></small>\n\t</div>"
+}
