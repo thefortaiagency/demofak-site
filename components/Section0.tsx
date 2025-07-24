@@ -5,13 +5,14 @@ export default function Section0() {
   return (
     <div className="min-h-screen">
       {/* Hero Section */}
-      <section className="relative bg-gradient-to-r from-blue-900 to-blue-700 text-white py-20">
+      <section className="relative bg-gradient-to-r from-blue-900 to-blue-700 text-white py-20 min-h-[600px]">
         <div className="absolute inset-0 overflow-hidden">
           <Image
             src="/images/hero-truck.png"
             alt="Professional truck fleet"
-            fill
-            className="object-cover opacity-30"
+            width={1792}
+            height={1024}
+            className="w-full h-full object-cover opacity-30"
             priority
           />
         </div>
