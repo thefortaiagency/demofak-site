@@ -12,7 +12,7 @@ export default function Section0() {
             alt="Professional truck fleet"
             width={1792}
             height={1024}
-            className="w-full h-full object-cover opacity-30"
+            className="w-full h-full object-cover opacity-60"
             priority
           />
         </div>
@@ -61,7 +61,7 @@ export default function Section0() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow">
               <Image
-                src="/images/truckload-service.png"
+                src="/images/truckload-service-enhanced.png"
                 alt="Truckload Services"
                 width={400}
                 height={300}
@@ -76,7 +76,7 @@ export default function Section0() {
 
             <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow">
               <Image
-                src="/images/flatbed-specialized.png"
+                src="/images/flatbed-specialized-enhanced.png"
                 alt="Flatbed & Specialized"
                 width={400}
                 height={300}
@@ -91,7 +91,7 @@ export default function Section0() {
 
             <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow">
               <Image
-                src="/images/ltl-warehouse.png"
+                src="/images/ltl-warehouse-enhanced.png"
                 alt="LTL Services"
                 width={400}
                 height={300}

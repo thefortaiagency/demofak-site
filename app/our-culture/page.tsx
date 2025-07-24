@@ -11,7 +11,7 @@ export default function OurCulture() {
             alt="Our Culture"
             width={800}
             height={400}
-            className="w-full h-full object-cover opacity-30"
+            className="w-full h-full object-cover opacity-60"
             priority
           />
         </div>
